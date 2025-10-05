@@ -8,7 +8,7 @@
       <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150px" style="border-radius:50%;" alt="Foto de Eduardo Olea"/>
     </td>
     <td>
- ¡Hola! Soy Eduardo Olea, estudiante de séptimo ciclo de Ingeniería de Software con formación técnica en Electrónica.
+ ¡Hola! Soy Eduardo Olea, estudiante de octavo ciclo de Ingeniería de Software con formación técnica en Electrónica.
 
 A lo largo de mi carrera he aprendido tecnologías como HTML, CSS, JavaScript, React, Node.js, Express, Java y bases de datos, además de desarrollar proyectos académicos con C# y Unity. Estoy dando mis primeros pasos en la creación de proyectos personales, como este portafolio y un videojuego en 3D que estoy mejorando activamente.
 
