@@ -13,6 +13,8 @@
 A lo largo de mi carrera he aprendido tecnologías como HTML, CSS, JavaScript, React, Node.js, Express, Java y bases de datos, además de desarrollar proyectos académicos con C# y Unity. Estoy dando mis primeros pasos en la creación de proyectos personales, como este portafolio y un videojuego en 3D que estoy mejorando activamente.
 
 Me gusta trabajar en equipo, resolver problemas, entender la lógica detrás de las cosas y construir interfaces funcionales. Aún no tengo experiencia profesional en el área, pero sí una enorme voluntad de crecer, aprender y adaptarme rápido. Si estás buscando a alguien que valore la calidad, el compromiso y el aprendizaje continuo, ¡aquí estoy! Gracias por visitar mi espacio.
+
+https://olearosase.github.io/
     </td>
   </tr>
 </table>
